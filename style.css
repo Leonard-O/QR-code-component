@@ -1,0 +1,43 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    width: 15rem;
+    margin: 10rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.qr-code {
+    width: 15rem;
+    margin: auto;
+    /* padding: 1rem; */
+}
+
+img {
+    width: 15rem;
+    border-radius: 0.5rem;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.3rem;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
